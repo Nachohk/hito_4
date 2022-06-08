@@ -1,24 +1,7 @@
-# README
+Grupo 4: Boris Arco, Patricia Ojier, Javier Tolrraz, Ignacio Lucero
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+El hito 4 no se desarrollo en la pagina web de Taburete dado que no se encuentra implementado en el modelo de negocio. Se ejecuto la actividad realizada en clases se realizaron modificaciones para que se pudiera subir a Heroku y cumplir con todos los requerimientos del hito.
 
-Things you may want to cover:
+La aplicacion se encuentra subida a Heroku y se realizaron pruebas de funcionamiento.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://aws3taburete.herokuapp.com/products
